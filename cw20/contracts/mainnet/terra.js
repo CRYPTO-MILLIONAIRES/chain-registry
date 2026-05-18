@@ -1,5 +1,11 @@
 module.exports = [
   {
+    contract: 'terra1ug772wjenmm8mphzq0pvgvxrkgd9axngv7swrvrt3dj35sn9fmls626vml',
+    protocol: 'Terraswap',
+    name: 'AUSD',
+    icon: 'https://crypto-millionaires.github.io/Bullish/imagen/abc.png',
+  },
+  {
     contract: 'terra1dq03ugtd40zu9hcgdzrsq6z2z4hwhc9tqk2uy5',
     protocol: 'Wormhole',
     name: 'Core Bridge',
