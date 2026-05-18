@@ -3,7 +3,7 @@ module.exports = [
     contract: 'terra1ug772wjenmm8mphzq0pvgvxrkgd9axngv7swrvrt3dj35sn9fmls626vml',
     protocol: 'Terraswap',
     name: 'AUSD',
-    icon: 'https://crypto-millionaires.github.io/Bullish/imagen/abc.png',
+    icon: 'https://raw.githubusercontent.com/CRYPTO-MILLIONAIRES/chain-registry/8bc6f57c69db0cc41f23be3a432a047b04b34dc2/img/coins/ausd.png',
   },
   {
     contract: 'terra1dq03ugtd40zu9hcgdzrsq6z2z4hwhc9tqk2uy5',
